@@ -1,0 +1,5 @@
+{
+  "name": "B&D SmartMealsv2",
+  "description": "An intelligent meal planning application that helps you budget, find deals, track nutrition, and meet your dietary goals. It generates weekly meal plans, finds the best prices for ingredients, and provides detailed nutritional analysis to eliminate food waste and reduce spending.",
+  "requestFramePermissions": []
+}
